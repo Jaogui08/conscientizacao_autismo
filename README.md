@@ -28,4 +28,3 @@ O site apresenta informações sobre o que é o autismo, suas características, 
 - João Guilherme Sales
 - João Thomaz Rodrigues
 - Maria Helena Tavares
-- Bruna Morganti
